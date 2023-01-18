@@ -16,3 +16,4 @@ Demo web bán sách, gồm các chức năng đầy đủ của một web bán s
 - Paypal
 - Cloudinary
 - AJAX
+- DAO
